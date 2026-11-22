@@ -1,0 +1,123 @@
+{
+  "manifest_version": 3,
+  "name": "Pink Tweed",
+  "version": "1.0",
+  "description": "Rosy boucl\u00e9 tweed in pink, fuchsia, red and cream.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        222,
+        140,
+        170
+      ],
+      "frame_inactive": [
+        232,
+        176,
+        196
+      ],
+      "frame_incognito": [
+        150,
+        70,
+        104
+      ],
+      "frame_incognito_inactive": [
+        170,
+        100,
+        128
+      ],
+      "toolbar": [
+        248,
+        220,
+        229
+      ],
+      "tab_text": [
+        92,
+        26,
+        56
+      ],
+      "tab_background_text": [
+        72,
+        18,
+        44
+      ],
+      "tab_background_text_inactive": [
+        110,
+        50,
+        78
+      ],
+      "bookmark_text": [
+        92,
+        26,
+        56
+      ],
+      "toolbar_button_icon": [
+        132,
+        48,
+        86
+      ],
+      "toolbar_text": [
+        92,
+        26,
+        56
+      ],
+      "omnibox_background": [
+        255,
+        244,
+        248
+      ],
+      "omnibox_text": [
+        82,
+        24,
+        50
+      ],
+      "ntp_background": [
+        226,
+        154,
+        180
+      ],
+      "ntp_text": [
+        72,
+        18,
+        44
+      ],
+      "ntp_link": [
+        176,
+        40,
+        86
+      ],
+      "ntp_header": [
+        210,
+        120,
+        154
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "tints": {
+      "buttons": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
